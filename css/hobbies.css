@@ -14,3 +14,10 @@ body {
 .hobby {
     width: 900px;
 }
+
+img {
+    float: right;
+    right: 200px;
+    position: absolute;
+    border-radius: 50%;
+}
