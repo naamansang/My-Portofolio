@@ -2,6 +2,55 @@
     font-style: oblique;
     font-weight: 1000;
     font-size: 32px;
+    background-image: src="images/bbbb.jpeg";
 }
 
-background-image:src="images/background.webp";
+.mine img {
+    border-radius: 20%;
+    float: right;
+    display: flex;
+    right: 800px;
+
+}
+
+.mine img:hover {
+    box-shadow: 0 0 10px 7px rgba(0, 140, 186, 0.5);
+}
+
+.copyright {
+    text-align: center;
+    display: block;
+}
+
+.asap {
+    position: absolute;
+    right: 800px;
+    font-family: Vampiro One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.name {
+    position: absolute;
+    position: relative;
+    width: 1440px;
+    height: 500px;
+}
+
+.name p {
+    height: 157px;
+    width: 549px;
+    left: 177px;
+    top: 208px;
+    border-radius: nullpx;
+}
+
+body {
+    background-color: maroon;
+}
+
+body {
+    background-image: url("images/bbbb.jpeg");
+}
