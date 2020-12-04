@@ -15,3 +15,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+img {
+    float: right;
+    right: 200px;
+    position: absolute;
+    border-radius: 20%;
+}
