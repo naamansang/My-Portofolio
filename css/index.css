@@ -2,10 +2,10 @@
     font-style: oblique;
     font-weight: 1000;
     font-size: 32px;
+    color: gold;
 }
 
 .mine img {
-    border-radius: 20%;
     float: right;
     display: flex;
     right: 800px;
@@ -45,5 +45,11 @@
 }
 
 body {
-    background-color: maroon;
+    background-image: url("/images/gg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 30%;
 }
