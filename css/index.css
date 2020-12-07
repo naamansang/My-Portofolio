@@ -45,10 +45,9 @@
 }
 
 body {
-    background-image: url("images/gg.jpeg");
+    background-image: url("/images/gg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
 }
 
 img {
